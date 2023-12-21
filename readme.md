@@ -43,7 +43,7 @@ The Bookshelf API is an implementation using Express.js to manage a book library
    When building the Bookshelf API, it is essential to test its functionality. Utilize the provided Postman Collection and Environment files.
 
    - Retrieve both JSON files from the `postman` -> `Postman Bookshelf API Test Collection and Environment` folder:
-     - [JSON Files] (img src = ``)
+     - [JSON Files](./src/postman/berkasJson.png)
 
    - In the Postman application, click the `Import` button in the left panel.
      - [Import JSON Files](./src/postman/1.png)
